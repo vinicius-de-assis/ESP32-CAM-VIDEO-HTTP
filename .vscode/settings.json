@@ -1,0 +1,14 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\engfl\\esp\\v5.2.3\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.portWin": "COM26",
+    "idf.toolsPathWin": "c:\\Users\\engfl\\.espressif",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "esp_http_server.h": "c",
+        "esp_camera.h": "c"
+    }
+}
